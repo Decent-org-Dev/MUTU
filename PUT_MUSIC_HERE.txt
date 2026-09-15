@@ -1,0 +1,8 @@
+Put your recorded happy birthday song/message here, named:
+song.mp3
+
+(mp3 is the safest format across all browsers. If you record
+in another format like .m4a or .wav, either convert it to mp3
+first, or open index.html and change:
+  <source src="audio/song.mp3" type="audio/mpeg">
+to match your file's name and type.)
